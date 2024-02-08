@@ -11,3 +11,4 @@ dashboard_user = user #面板用户名
 dashboard_pwd = pwd #面板密码
 
 修改完成后使用docker-compose一键部署
+原项目链接:https://github.com/fatedier/frp
