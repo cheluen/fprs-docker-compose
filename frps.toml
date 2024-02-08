@@ -1,0 +1,8 @@
+[common]
+bind_port = 4000
+bind_addr = ip
+token = token
+vhost_http_port = 81
+dashboard_port = 37500
+dashboard_user = user
+dashboard_pwd = pwd
